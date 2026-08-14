@@ -25,4 +25,4 @@ selectionSort(objMotoristas, (elem1, elem2) => elem1.nome_motorista > elem2.nome
 
 console.log(objMotoristas)
 
-console.log(pass, comps, trocas)
+console.log({pass, comps, trocas})
